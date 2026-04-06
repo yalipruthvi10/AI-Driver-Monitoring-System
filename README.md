@@ -29,4 +29,4 @@ Camera + Sensors → Raspberry Pi → AI Processing → Verilog Alert Logic → 
 - UVM-based verification
 
 ## 👨‍💻 Author
-Pruthvi
+Pruthviraj S Yali
